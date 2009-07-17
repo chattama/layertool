@@ -1,0 +1,17 @@
+
+#define IDPREVIEW				3
+
+#define IDD_FILTER_CONFIG		101
+
+#define IDC_FC_USECHROMA		1001
+#define IDC_FC_OPERATION		1002
+#define IDC_FC_LEVEL			1003
+#define IDC_FC_POSX				1004
+#define IDC_FC_POSY				1005
+#define IDC_FC_THRESHOLD		1006
+#define IDC_FC_PICK_COLOR		1007
+#define IDC_FC_WIDTH			1008
+#define IDC_FC_HEIGHT			1009
+#define IDC_FC_OPACITY			1010
+#define IDC_FC_COLOR			1011
+#define IDC_FC_SCRIPT			1012
